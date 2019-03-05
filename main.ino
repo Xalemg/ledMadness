@@ -1,8 +1,9 @@
 
+#include "libs/effects.h"
+
 int ledPinR = 3;
 int ledPinG = 5;
 int ledPinB = 6;
-  #include "libs/effects.h"
 
 
 void setup()  { 
