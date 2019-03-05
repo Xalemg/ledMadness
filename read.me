@@ -1,0 +1,1 @@
+Project incluiding my own library for controlling a LED strip 
